@@ -11,10 +11,10 @@
 <!--引入字体，全局字体使用-->
 <link rel="stylesheet" href="https://npm.elemecdn.com/lxgw-wenkai-webfont@1.1.0/lxgwwenkai-regular.css" />
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/qqqqqq2023/theme/openlist/custom.css">
-<script src="https://cdn.jsdelivr.net/gh/qqqqqq2023/theme/openlist/custom.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/qqqqqq2023/theme@v1.0/openlist/custom.css">
+<script src="https://cdn.jsdelivr.net/gh/qqqqqq2023/theme@v1.0/openlist/custom.js"></script>
 
 <!-- logo -->
-https://cdn.jsdelivr.net/gh/qqqqqq2023/theme/logo/海绵宝宝.svg
-https://cdn.jsdelivr.net/gh/qqqqqq2023/theme/logo/海绵宝宝-01.svg
+<!-- https://cdn.jsdelivr.net/gh/qqqqqq2023/theme@v1.0/logo/海绵宝宝.svg -->
+<!-- https://cdn.jsdelivr.net/gh/qqqqqq2023/theme@v1.0/logo/海绵宝宝-01.svg -->
 ```
