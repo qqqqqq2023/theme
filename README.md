@@ -16,5 +16,5 @@
 
 <!-- logo -->
 https://cdn.jsdelivr.net/gh/qqqqqq2023/theme/logo/海绵宝宝.svg
-https://cdn.jsdelivr.net/gh/qqqqqq2023/theme/favicon/海绵宝宝.ico
+https://cdn.jsdelivr.net/gh/qqqqqq2023/theme/logo/海绵宝宝-01.svg
 ```
